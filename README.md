@@ -9,7 +9,7 @@
 
   <p>
     <a href="https://www.brazcraft.com.br"><img src="https://img.shields.io/badge/Website-brazcraft.com.br-173967?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-    <a href="mailto:brenorubens@icloud.com"><img src="https://img.shields.io/badge/Contato-brenorubens%40icloud.com-3F7865?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:dev@brazcraft.com.br"><img src="https://img.shields.io/badge/Contato-dev%40brazcraft.com.br-3F7865?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/brenoruivo-dev"><img src="https://img.shields.io/badge/GitHub-brenoruivo--dev-142D44?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://img.shields.io/badge/Inova%20Simples-CNPJ%2069.460.896%2F0001--98-C4A548?style=for-the-badge&logoColor=white" alt="CNPJ" />
   </p>
@@ -96,7 +96,7 @@ A **BRAZCRAFT** opera com uma estrutura modular de **Crafts**, onde cada especia
 
 * 🌐 **Site Institucional:** [brazcraft.com.br](https://www.brazcraft.com.br)
 * 💼 **GitHub:** [@brenoruivo-dev](https://github.com/brenoruivo-dev)
-* ✉️ **E-mail:** [brenorubens@icloud.com](mailto:brenorubens@icloud.com)
+* ✉️ **E-mail:** [dev@brazcraft.com.br](mailto:dev@brazcraft.com.br)
 * 🏢 **Governança:** BRAZCRAFT TECNOLOGIA INOVA SIMPLES (I.S.) — CNPJ `69.460.896/0001-98`
 
 <br />
