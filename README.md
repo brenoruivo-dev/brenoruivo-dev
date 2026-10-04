@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/brazcraft-logo.png" alt="BRAZCRAFT Logo" width="480" />
+  <img src="https://raw.githubusercontent.com/brenoruivo-dev/brenoruivo-dev/main/assets/brazcraft-logo.png" alt="BRAZCRAFT Logo" width="480" />
 
   <br />
 
@@ -102,7 +102,7 @@ A **BRAZCRAFT** opera com uma estrutura modular de **Crafts**, onde cada especia
 <br />
 
 <div align="center">
-  <img src="./assets/brazcraft-symbol.png" alt="Símbolo BRAZCRAFT" width="64" />
+  <img src="https://raw.githubusercontent.com/brenoruivo-dev/brenoruivo-dev/main/assets/brazcraft-symbol.png" alt="Símbolo BRAZCRAFT" width="64" />
   <br />
   <sub><em>"A inteligência que criamos tem uma origem: pessoas. E essas pessoas pertencem a um mundo vivo, diverso e interdependente."</em></sub>
 </div>
